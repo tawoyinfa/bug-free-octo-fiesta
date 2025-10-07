@@ -5,7 +5,7 @@ metadata:
   namespace: argocd
 spec:
   source:
-    repoURL: https://github.com/<repo>
+    repoURL: https://github.com/tawoyinfa/bug-free-octo-fiesta
     targetRevision: main
     path: example/path
     ###

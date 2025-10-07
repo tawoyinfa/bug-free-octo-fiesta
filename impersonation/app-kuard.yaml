@@ -6,7 +6,7 @@ metadata:
 spec:
   project: endor
   source:
-    repoURL: https://github.com/<repo>
+    repoURL: https://github.com/tawoyinfa/bug-free-octo-fiesta
     targetRevision: main
     path: impersonation/manifests/
   destination:
